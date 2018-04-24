@@ -1,6 +1,4 @@
-# java-psql
-
-JAVA + PSQL
+# JAVA + PSQL
 
 [ Projekt na zajęcia, 03/2018 ]
 
